@@ -1,0 +1,18 @@
+li.list-group-item.whole-item {
+  background-color: lightblue !important;
+  padding: 10px !important;
+  margin-bottom: 10px !important;
+}
+
+
+.each-item{
+  font-weight: 600;
+}
+
+.food-heading{
+  background-color: blueviolet;
+  color: rgb(167, 126, 126);
+  margin-bottom: 15px;
+  padding: 10px;
+  
+}
